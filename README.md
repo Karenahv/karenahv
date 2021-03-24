@@ -6,7 +6,7 @@ I am Industrial Engineer, project manager and full-stack developer mostly in Jav
 When I build websites I use React or Next  with Ant Design. I try to use strapi for backend or Node or Django.
 
 - 🔭 I’m currently working on a platform called Grovity to connect mentors with companies.
-- 🌱 I’m currently learning machine learning and python frameworks.
+- 🌱 I’m currently learning Golang, machine learning and python frameworks.
 - 👯 I’m looking to collaborate with other passionate developers
 
 ### My Stack
