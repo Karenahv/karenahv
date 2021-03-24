@@ -22,6 +22,11 @@ When I build websites I use React or Next  with Ant Design. I try to use strapi 
 - MongoDB/MySQL
 - Payment(stripe/payU)
 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/karen-herrera-16381059/)
+&nbsp;
+
+
+
 <!--
 **Karenahv/karenahv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
