@@ -11,9 +11,10 @@ When I build websites I use React or Next  with Ant Design. I try to use strapi 
 
 ### My Stack
 
-- React/Typescript
-- Next.js/Ant Design/Material UI
+- React/Next.js
+- Ant Design/Material UI
 - Javascript/jQuery
+- Jest
 - CSS/SCSS
 - HTML5
 - AWS
