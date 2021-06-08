@@ -1,11 +1,11 @@
 ### Hi there 👋
 ### Welcome to My Git.
 
-I am Industrial Engineer, project manager and full-stack developer mostly in Javascript and Javascript frameworks. My focus is always the best secure, reliable, and with good user experience websites. 
+I am full-stack developer, Industrial Engineer and project manager. My focus is always the best secure, reliable, and with good user experience websites. 
 
 When I build websites I use React or Next  with Ant Design. I try to use strapi for backend or Node or Django.
 
-- 🔭 I’m currently working on a platform called Grovity to connect mentors with companies.
+- 🔭 I’m currently working as  a WEB UI DEVELOPER at Globant.
 - 🌱 I’m currently learning Golang, machine learning and python frameworks.
 - 👯 I’m looking to collaborate with other passionate developers
 
