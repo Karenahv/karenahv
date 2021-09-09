@@ -5,7 +5,7 @@ I am full-stack developer, Industrial Engineer and project manager. My focus is 
 
 When I build websites I use React or Next  with Ant Design. I try to use strapi for backend or Node or Django.
 
-- 🔭 I’m currently working as  a WEB UI DEVELOPER at Globant.
+- 🔭 I’m currently working as  a FRONT END SOFTWARE ENGINEER at ADDI.
 - 🌱 I’m currently learning Golang, machine learning and python frameworks.
 - 👯 I’m looking to collaborate with other passionate developers
 
