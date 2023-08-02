@@ -25,9 +25,6 @@ When I build websites I use Reactjs or Nextjs with Ant Design, MUI or custom lib
 - MongoDB/MySQL
 - Payment(stripe/payU)
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/karen-herrera-16381059/)
-&nbsp;
-
 
 
 <!--
