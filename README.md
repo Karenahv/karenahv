@@ -3,10 +3,10 @@
 
 I am full-stack developer, Industrial Engineer and project manager. My focus is always the best secure, reliable, and with good user experience websites. 
 
-When I build websites I use React or Next  with Ant Design. I try to use strapi for backend or Node or Django.
+When I build websites I use Reactjs or Nextjs with Ant Design, MUI or custom libraries. I try to use strapi for backend or Node or Django.
 
-- 🔭 I’m currently working as  a FRONT END SOFTWARE ENGINEER at ADDI.
-- 🌱 I’m currently learning Golang, machine learning and python frameworks.
+- 🔭 I’m currently working as  a FRONT END SOFTWARE ENGINEER.
+- 🌱 I’m currently learning more about Node, machine learning and python frameworks.
 - 👯 I’m looking to collaborate with other passionate developers
 
 ### My Stack
